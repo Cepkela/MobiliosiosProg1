@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/ic_home"
+    android:icon="@drawable/ic_home"
+    android:title="Home"/>
+
+    <item
+        android:id="@+id/ic_star"
+        android:icon="@drawable/ic_star"
+        android:title="Top Rated"/>
+
+    <item
+        android:id="@+id/ic_movies"
+        android:icon="@drawable/ic_movie"
+        android:title="All Movies"/>
+
+    <item
+        android:id="@+id/ic_more"
+        android:icon="@drawable/ic_more"
+        android:title="More"/>
+
+    <item
+        android:id="@+id/ic_help"
+        android:icon="@drawable/ic_help"
+        android:title="Help"/>
+</menu>

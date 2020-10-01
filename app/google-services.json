@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627795227823",
+    "firebase_url": "https://mobiliosiosprog1.firebaseio.com",
+    "project_id": "mobiliosiosprog1",
+    "storage_bucket": "mobiliosiosprog1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627795227823:android:9faf7aed1fec4e9d75505a",
+        "android_client_info": {
+          "package_name": "viko.eif.lt.mobiliosiosprog1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627795227823-ljrv88umltejnf790aiqf52r5bnbbikn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "viko.eif.lt.mobiliosiosprog1",
+            "certificate_hash": "87f84877827250a7ce9bfe1850cdf825f4f02627"
+          }
+        },
+        {
+          "client_id": "627795227823-6cqsin2ioactr5n16qototubahnk0rj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEl2IXKtlwXebv4dOrRr5YYiuyBPxs_eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627795227823-6cqsin2ioactr5n16qototubahnk0rj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
